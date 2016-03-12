@@ -1,0 +1,74 @@
+/* This file is inside the css Bootstrap file */
+
+
+.bg{
+	/*
+	background-image: url(HD_Nature_Wallpapers4.jpg);
+	*/
+	background-color: #999966;
+}
+
+.cv{
+	color: #fff;
+	margin-top: 100px;
+	margin-bottom: 100px;
+	text-align: center;
+}
+
+
+.free{
+	clear: both;
+}
+
+.mainthing{
+	background-color: #F0F0F0 ;opacity: 0.6;
+	color: black;
+	font-family: Andalus;
+	font-size: 18px;
+	padding: 9px 12px;
+	border-radius: 13px;
+
+}
+.carear p:hover{
+ text-decoration: none;
+}
+
+.carear h2{
+  background-color: #fff;
+  padding-left: 20px;
+}
+
+
+
+/*----------------------------------------*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
